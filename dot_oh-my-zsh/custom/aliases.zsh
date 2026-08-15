@@ -27,3 +27,6 @@ alias lt='lsd --tree'
 alias gs='git status'
 alias gd='git diff'
 alias gcm='git commit --message'
+
+# Dockers
+alias crowdsec-bouncer-list='docker exec crowdsec cscli bouncer list'
