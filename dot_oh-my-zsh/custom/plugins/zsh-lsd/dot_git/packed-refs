@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+fa4434c7fd2f75fcf11d51ec12026ecc9bc492bb refs/remotes/origin/dependabot/github_actions/actions/checkout-7
+bdd600236a61f9ba63b985a9e19c73a0df2fb98d refs/remotes/origin/main
+c52c4a51d629a2e14728fb0ff7f0b19ef7b6d133 refs/tags/v1.0.0
