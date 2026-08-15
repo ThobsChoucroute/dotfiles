@@ -124,5 +124,14 @@ autoload -Uz _zi
 # examples here -> https://wiki.zshell.dev/ecosystem/category/-annexes
 zicompinit # <- https://wiki.zshell.dev/docs/guides/commands
 
+# LSD
+if ! command -v lsd &> /dev/null; then
+  echo "⚠️  lsd n'est pas installé. Lance 'install_lsd' pour l'installer."
+fi
+
+install_lsd() {
+  sudo apt update && sudo apt install -y lsd
+}
+
 # opencode
 export PATH=/home/choucroute/.opencode/bin:$PATH
