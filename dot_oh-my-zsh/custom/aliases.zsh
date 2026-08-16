@@ -30,4 +30,4 @@ alias gd='git diff'
 alias gcm='git commit --message'
 
 # Dockers
-alias crowdsec-bouncer-list='docker exec crowdsec cscli bouncer list'
+alias crowdsec-decisions-list='docker exec -it crowdsec cscli decisions list'
