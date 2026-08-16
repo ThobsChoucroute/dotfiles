@@ -17,6 +17,7 @@ alias art="php artisan"
 #alias ls='ls --color=tty'
 
 # New Navigation
+alias ls='lsd'
 alias l='lsd -l'
 alias la='lsd -a'
 alias ll='lsd -alF'
