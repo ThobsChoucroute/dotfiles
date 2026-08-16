@@ -22,7 +22,7 @@ plugins=(
 	zsh-syntax-highlighting
 	sudo
 	zsh-lsd
-  ohmyzsh-full-autoupdate #Auto Update Oh My Zsh plugins and themes when updating Oh My Zsh
+ 	ohmyzsh-full-autoupdate # Auto Update Oh My Zsh plugins and themes when updating Oh My Zsh
 )
 
 source $ZSH/oh-my-zsh.sh
