@@ -1,0 +1,82 @@
+# Changelog
+
+## [1.3.2](https://github.com/Pilaton/OhMyZsh-full-autoupdate/compare/v1.3.1...v1.3.2) (2026-01-05)
+
+
+### Bug Fixes
+
+* resolve xtrace debug output and plugin name display issues ([7a559e5](https://github.com/Pilaton/OhMyZsh-full-autoupdate/commit/7a559e58c900c82d9c056d757f9dacb36ce4f832))
+
+## [1.3.1](https://github.com/Pilaton/OhMyZsh-full-autoupdate/compare/v1.3.0...v1.3.1) (2025-12-14)
+
+
+### Bug Fixes
+
+* skip plugins on detached HEAD instead of failing ([4598ac8](https://github.com/Pilaton/OhMyZsh-full-autoupdate/commit/4598ac8205039b13b577602c8f245a062a0d18be)), closes [#21](https://github.com/Pilaton/OhMyZsh-full-autoupdate/issues/21)
+
+## [1.3.0](https://github.com/Pilaton/OhMyZsh-full-autoupdate/compare/v1.2.2...v1.3.0) (2025-12-14)
+
+
+### Features
+
+* add configurable remote and major plugin improvements ([87bb7bb](https://github.com/Pilaton/OhMyZsh-full-autoupdate/commit/87bb7bb8eb0bd2dadda8062b2848f1da1d511077))
+
+
+### Bug Fixes
+
+* correct GitHub URLs and add missing colorRed variable ([fd6bc2c](https://github.com/Pilaton/OhMyZsh-full-autoupdate/commit/fd6bc2cdedb4cf7f9da0ab625e09b200b117f55a))
+
+## [1.2.2](https://github.com/Pilaton/OhMyZsh-full-autoupdate/compare/v1.2.1...v1.2.2) (2024-09-16)
+
+
+### Bug Fixes
+
+* Ensure LF line endings for shell scripts ([024fc36](https://github.com/Pilaton/OhMyZsh-full-autoupdate/commit/024fc36287cee66ee766c5d34322e55cb316129e))
+
+## [1.2.1](https://github.com/Pilaton/OhMyZsh-full-autoupdate/compare/v1.2.0...v1.2.1) (2023-12-14)
+
+
+### Bug Fixes
+
+* **docs:** Made edits ([ed88217](https://github.com/Pilaton/OhMyZsh-full-autoupdate/commit/ed88217478b4730516a9f17a3a00577fd8cbcc6e))
+* **stylistics:** Corrected indentation in the code ([412c12b](https://github.com/Pilaton/OhMyZsh-full-autoupdate/commit/412c12bc1bc55b001ef9958351dad4f156793c7d))
+
+## [1.2.0](https://github.com/Pilaton/OhMyZsh-full-autoupdate/compare/v1.1.1...v1.2.0) (2023-11-22)
+
+
+### 🎉 Features
+
+* Many small improvements ([47118a5](https://github.com/Pilaton/OhMyZsh-full-autoupdate/commit/47118a524101fbc9b419b474b75277b16ad07e0b))
+
+### [1.1.1](https://www.github.com/Pilaton/OhMyZsh-full-autoupdate/compare/v1.1.0...v1.1.1) (2023-01-18)
+
+
+### 🛠️ Bug Fixes
+
+* Fixed a bug with the constant launch of the plugin when opening a new terminal window, if the automatic OMZ update was disabled by you. ([e323997](https://www.github.com/Pilaton/OhMyZsh-full-autoupdate/commit/e323997a14b288639e984856d1b2670a3e94a071))
+
+## [1.1.0](https://www.github.com/Pilaton/OhMyZsh-full-autoupdate/compare/v1.0.1...v1.1.0) (2022-12-02)
+
+
+### 🎉 Features
+
+* Welcome window added ([922c7d8](https://www.github.com/Pilaton/OhMyZsh-full-autoupdate/commit/922c7d8793fbaf60c2d7889d3bce2a016f600744))
+
+
+### 🛠️ Bug Fixes
+
+* Description edited ([8e3c3dc](https://www.github.com/Pilaton/OhMyZsh-full-autoupdate/commit/8e3c3dcbd2d6452c43b8bd316ab60169ffdb6339))
+
+### [1.0.1](https://www.github.com/Pilaton/OhMyZsh-full-autoupdate/compare/v1.0.0...v1.0.1) (2022-04-05)
+
+
+### 🛠️ Bug Fixes
+
+* Fixed description in the readme and adding a message in the console when the plugin is launched ([02930b5](https://www.github.com/Pilaton/OhMyZsh-full-autoupdate/commit/02930b58595f5202e13f04b60d7d21675859adc5))
+
+## 1.0.0 (2021-12-15)
+
+
+### 🎉 Features
+
+* Release! ([07bb796](https://www.github.com/Pilaton/OhMyZsh-full-autoupdate/commit/07bb796c5ba5da586b11fa9a57d62939edda042c))
