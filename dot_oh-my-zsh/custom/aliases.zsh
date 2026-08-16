@@ -1,6 +1,6 @@
 # Systeme
 alias zshconfig="chezmoi edit --apply ~/.zshrc"
-alias aliases='chezmoi edit --apply $ZSH_CUSTOM/aliases.zsh'
+alias aliases='nano $ZSH_CUSTOM/aliases.zsh && chezmoi add $ZSH_CUSTOM/aliases.zsh'
 alias reload='source ~/.zshrc'
 alias sshconfig='nano ~/.ssh/config'
 alias rmrf='sudo rm -rf'
