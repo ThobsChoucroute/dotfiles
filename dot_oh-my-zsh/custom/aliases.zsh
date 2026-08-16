@@ -1,5 +1,5 @@
 # Systeme
-alias zshconfig="chezmoi edit --apply ~/.zshrc"
+alias zshconfig="nano ~/.zshrc && chezmoi add ~/.zshrc"
 alias aliases='nano $ZSH_CUSTOM/aliases.zsh && chezmoi add $ZSH_CUSTOM/aliases.zsh'
 alias reload='source ~/.zshrc'
 alias sshconfig='nano ~/.ssh/config'
